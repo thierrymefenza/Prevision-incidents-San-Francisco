@@ -5,4 +5,6 @@ Dans ce projet, nous travaillons sur une base de données d'appels des usagers a
 Un modèle permettant de prédire avec précision le nombre d'appels en fonction du quartier, d'une date et d'une heure donnée permettrait aux équipes de sapeurs pompiers de mieux s'organiser afin qu'un nombre suffisants d'agents soient disponibles et capables de répondre aux incidents.
 Notre objectif est donc  de contribuer à l'allocation des ressources des sapeurs pompiers de la ville de San Francisco en prédisant le nombre d'appels par quartier et pour une date donnée. 
 
-Notre travail est divisé en trois parties. La première partie porte sur la description de la base de données et sur le nettoyage de celle-ci, le deuxième partie présente la visualisation des données utile pour mieux comprendre et traiter nos données en vue d'une bonne prédiction, la troisième partie présente nos différents modèles de prédiction. 
+Notre travail est divisé en trois parties: 
+  - La première partie porte sur la description de la base de données, le nettoyage et la visualisation des données utiles pour mieux comprendre et traiter nos données en vue d'une bonne prédiction
+  - la deuxième et troisième partie présente nos différents modèles de prédiction. 
